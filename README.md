@@ -6,7 +6,7 @@ Predicting Metabolite-Disease Association by Probabilistic Matrix Factorization 
 
 ### Files  
 knownMetaboliteDiseaseAssociations.txt: this dataset is retrieved from the Human Metabolome Database (HMDB) [1].  
-metabolite-description.txt: this dataset is from the description of metabolite identification in HMDB.  
+metabolite-description.txt: this dataset is from the description of metabolite identification in HMDB [1].  
 disease-description.txt: this dataset is from entries in the Online Mendelian Inheritance in Man [2].  
 Note: the code is refer to codes of kim et al. https://github.com/cartopy/ConvMF.git [3][4].
 
